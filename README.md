@@ -6,4 +6,4 @@ To use this script simple run it from the directory it resides prefaced with sud
 
 `$sudo ./update.sh`:
 ![running the script]
-("2019-Jun-05-00:34.png")
+(2019-Jun-05-00:34.png)
